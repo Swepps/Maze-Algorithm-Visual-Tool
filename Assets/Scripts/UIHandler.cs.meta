@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 4ad19a2bf8b4b574f84554d0045c1886
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - colsSlider: {instanceID: 0}
+  - rowsSlider: {instanceID: 0}
+  - speedSlider: {instanceID: 0}
+  - colsInput: {instanceID: 0}
+  - rowsInput: {instanceID: 0}
+  - genButton: {instanceID: 0}
+  - pauseButton: {instanceID: 0}
+  - stepButton: {instanceID: 0}
+  - skipButton: {instanceID: 0}
+  - solveButton: {instanceID: 0}
+  - resetButton: {instanceID: 0}
+  - cellTypeDropdown: {instanceID: 0}
+  - genAlgorithmDropdown: {instanceID: 0}
+  - solveAlgorithmDropdown: {instanceID: 0}
+  - maze: {instanceID: 0}
+  - distanceText: {instanceID: 0}
+  - generationHandler: {fileID: 5504495015812012606, guid: ce07a3e80fd518d4b8077bc554cf1a0c,
+      type: 3}
+  - solveHandler: {fileID: 3956291576770321084, guid: 26738c89542b0a647925cc86de689779,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
