@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "MazeTool",
+"companyName": "George Osgood",
+"productName": "Maze Algorithm Visualisation Tool",
 "dataUrl": "Maze Tool.data.unityweb",
 "wasmCodeUrl": "Maze Tool.wasm.code.unityweb",
 "wasmFrameworkUrl": "Maze Tool.wasm.framework.unityweb",
